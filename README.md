@@ -1,5 +1,7 @@
 <h2> Hey there, I'm Filipe <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="50"> </h2> 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="240">
+<!-- <img align='right' src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="240"> -->
+<img align="right" src=https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif width="260">
+
 <p>Cybersecurity researcher at <a href="https://laps.dee.ufcg.edu.br/">Laboratório de Processamento de Sinais e Informação</a></p>
 <p>Red Teamer  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="25"></p>
 
