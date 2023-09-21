@@ -8,6 +8,7 @@
 [![Linkedin: filipeferreira1417](https://img.shields.io/badge/-filipeferreira1417-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeferreira1417/)](https://www.linkedin.com/in/filipeferreira1417/)
 
 - 🔭 I'm currently interested about CTFs.
+- 👾 My GitHub contributions are usually related to scripts development, attacks, and cryptography.
 
 <!--
 **filipe1417/filipe1417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
