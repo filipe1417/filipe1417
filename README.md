@@ -1,7 +1,8 @@
 <h2> Hey there, I'm Filipe </h2>
 <!-- <img align='right' src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="240"> -->
 <!-- <img align="right" src=https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif width="25%"> -->
-<p>Cybersecurity researcher at <a href="https://laps.dee.ufcg.edu.br/">Laboratório de Processamento de Sinais e Informação</a>     <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="30"></p>
+<p>Cybersecurity researcher <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="30"></p>
+<p>SPLab - Software Practices Laboratory UFCG</p>
 <p>Red Team  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="25"></p>
 
 [![Linkedin: filipeferreira1417](https://img.shields.io/badge/-filipeferreira1417-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeferreira1417/)](https://www.linkedin.com/in/filipeferreira1417/)
